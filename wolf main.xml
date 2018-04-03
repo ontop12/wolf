@@ -1,0 +1,55 @@
+<dir>
+    <title>Releass</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Releass.xml</link>
+</dir>
+
+  </xml>
+<dir>
+  <title>Collector</title>
+  <link>https://raw.githubusercontent.com/lost50/collector/master/collecter%20movies.xml</link>
+</dir>
+
+<xml>
+  <dir>
+    <title>Sci-fi Movies</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Scifi.xml</link>
+  </dir>
+
+<dir>
+   <title>Urban Movies</title>
+   <link>https://raw.githubusercontent.com/lost50/collector/master/Urban.xml</link>
+</dir>
+
+<dir>
+   <title>Boxset/Movies</title>
+   <link>https://raw.githubusercontent.com/lost50/timber/master/tw%20movies.xml</link>
+</dir>
+
+  <dir>
+    <title>Kids Place</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/kids%20place.xml</link>
+  </dir>
+</xml>
+
+  <dir>
+    <title>Actors</title>
+    <link>https://raw.githubusercontent.com/beast58/timber/master/actors%20and%20actess.xml</link>
+  </dir>
+</xml>
+
+  <dir>
+    <title>TV Shows</title>
+    <link>https://raw.githubusercontent.com/beast58/timber/master/tv%20shows.xml</link>
+  </dir>
+</xml>
+
+ <dir>
+    <title>TMDB</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/tv.xml</link>
+  </dir>
+
+<xml>
+  <dir>
+    <title>Timber</title>
+    <link>https://raw.githubusercontent.com/beast58/timber/master/timber.xml</link>
+  </dir>
