@@ -1,0 +1,135 @@
+   
+<dir>
+      <title>TMDB Upcoming</title>
+      <tmdb>movie/upcoming</tmdb>
+      <summary>Shows Trailers For Upcoming Movies</summary>
+</dir>
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+    <title>Movie Genres</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
+</dir>
+  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
+ 
+ <dir>
+  <title>Dc/Marval Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/Dc%20%26%20Marval.xml</link>
+  <thumbnail>http://wfiles.brothersoft.com/3/3d-robot_193495-1600x900.jpg</thumbnail>
+ </dir>
+ <dir>
+  <title>Kids Plce</title>
+  <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20kids%20place.xml</link>
+  <thumbnail></thumbnail>
+ </dir>
+
+ <dir>
+  <title>Horror Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/horro.xml</link>
+  <thumbnail>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi5gP-ImbvaAhVF0YMKHbkyAhMQjRx6BAgAEAU&url=https%3A%2F%2Fwww.sunhome.ru%2Fwallpapers%2F17932&psig=AOvVaw32W5_IxCb8LDt2Hzxvo8ph&ust=1523844065406523</thumbnail>
+</dir>
+ 
+ <dir>
+  <title>Sci-Fi Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/power%20scifi.xml</link>
+  <thumbnail>https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi5gP-ImbvaAhVF0YMKHbkyAhMQjRx6BAgAEAU&url=https%3A%2F%2Fwww.sunhome.ru%2Fwallpapers%2F17932&psig=AOvVaw32W5_IxCb8LDt2Hzxvo8ph&ust=1523844065406523</thumbnail>
+</dir>
+ 
+<dir>
+   <title>Mythology</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20mythology.xml</link>
+</dir>
+  
+<dir>
+   <title>Fighing </title>
+   <link>https://raw.githubusercontent.com/doomfist2/wolf/master/wolf%20fight.xml</link>
+</dir>
+  
+<dir>
+   <title>Beast</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20beast.xml</link>
+</dir>
+  
+<dir>
+   <title>Sports Movies</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20sports.xml</link>
+</dir>
+  
+<dir>
+   <title>Criminal</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/criminal.xml</link>
+</dir>
+  
+<dir>
+   <title>Urban</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/Urban.xml</link>
+</dir>
+   
+<dir>
+   <title>Her Place</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/Her%20Place.xml</link>
+</dir>
+    
+<dir>
+   <title>action pack</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/76.xml</link>
+</dir>
+     
+<dir>
+   <title>Actors List</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/actors%20list.xml</link>
+</dir>
+
+<dir>
+        <title>action thriller movies 2017</title>
+        <tmdb>list/63866</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>Drama/Action/Thriller</title>
+        <tmdb>list/51603</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>suspense</title>
+        <tmdb>list/63312</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>disaster</title>
+        <tmdb>list/63722</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>Conspiracy</title>
+        <tmdb>list/64264</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>President Movies</title>
+        <tmdb>list/64267</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Racing Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63095</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
