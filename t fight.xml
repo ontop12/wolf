@@ -1,0 +1,86 @@
+<dir>
+        <title>Fighting 2 Movies</title>
+        <tmdb>list/63115</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Boxing Movies</title>
+        <tmdb>list/63100</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Sword Movies</title>
+  <tmdb>list/62306</tmdb>
+</dir>
+  <dir>
+  <title>Kung fu Movies</title>
+  <link>https://raw.githubusercontent.com/doomfist2/eod/master/eod%20kung%20fu.xml</link>
+</dir>
+   <dir>
+  <title>new Kung fu Movies</title>
+  <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20kung%20fu.xml</link>
+</dir>
+ 
+ <dir>
+  <title>Kung fu 2 Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/lucio/master/kung%20fu%202.xml</link>
+</dir>
+  
+  <dir>
+    <title>Kung fu 3 Movies</title>
+    <link>https://raw.githubusercontent.com/timeless69/lucio/master/kung%20fu%203.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Kung fu 4 Movies</title>
+    <link>https://raw.githubusercontent.com/timeless69/lucio/master/kung%20fu%20a.xml</link>
+  </dir>
+   
+  <dir>
+    <title>Kung fu 5 Movies</title>
+    <link>https://raw.githubusercontent.com/doomfist2/eod/master/kung%20fu%205.xml</link>
+  </dir>
+   <dir>
+    <title>Kung fu 6 Movies</title>
+    <link>https://raw.githubusercontent.com/doomfist2/eod/master/kung%20fu%206.xml</link>
+  </dir>
+ 
+<dir>
+  <title>kung fu Movies tmdb</title>
+  <tmdb>list/https://www.themoviedb.org/list/65153</tmdb>
+</dir>
+<dir>
+        <title>deadly venom</title>
+        <tmdb>list/78254</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Jet Li</title>
+        <tmdb>list/78277</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+ 
+<dir>
+  <title>Jackie Chan</title>
+  <tmdb>list/78274</tmdb>
+</dir>
+<dir>
+        <title>Ti Lung/David Chiang/Meng Fei</title>
+        <tmdb>list/78271</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Alexander Fu Sheng/Gordon Liu</title>
+        <tmdb>list/78261</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>

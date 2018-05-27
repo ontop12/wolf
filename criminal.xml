@@ -1,0 +1,54 @@
+<dir>
+      <title>Heist Movies</title>
+      <tmdb>list/https://www.themoviedb.org/list/62620</tmdb>
+      <thumbnail>http://data.1freewallpapers.com/download/robot-warrior.jpg</thumbnail>
+      <fanart></fanart>
+</dir>
+ 
+ <dir>
+<title>Gangsta</title>
+<tmdb>list/51623</tmdb>
+<thumbnail>https://images3.alphacoders.com/268/268285.jpg</thumbnail>
+</dir>
+
+<dir>
+        <title>Sniper Movies</title>
+        <tmdb>list/63189</tmdb>
+        <thumbnail>https://wallpaperstock.net/3d-robot%2C-fighter_wallpapers_55288_1920x1080.jpg</thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Drug Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/62974</tmdb>
+        <thumbnail>https://i.pinimg.com/originals/f3/b4/ae/f3b4aebbe016d2db43276b6cc911a5f9.jpg</thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir><dir>
+<title>special forces movies</title>
+<tmdb>list/64708</tmdb>
+</dir>
+
+<dir><dir>
+<title>lawyer and court </title>
+<tmdb>list/64621</tmdb>
+</dir>
+<dir>
+        <title>hostage and kidnap</title>
+        <tmdb>list/63739</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>assassin </title>
+        <tmdb>list/63741</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>crime</title>
+        <tmdb>list/63726</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 

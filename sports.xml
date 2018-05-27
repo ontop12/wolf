@@ -1,0 +1,45 @@
+ 
+  <dir>
+    <title>Boxings Greats</title>
+    <link>https://raw.githubusercontent.com/doomfist2/eod/master/boxing%20greats.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Womans Boxing</title>
+    <link>https://raw.githubusercontent.com/doomfist2/eod/master/womans%20boxing.xml</link>
+  </dir>
+</xml>
+ 
+  <dir>
+    <title>Knock Outs</title>
+    <link>https://raw.githubusercontent.com/doomfist2/eod/master/knock%20outs.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Womans Ufc</title>
+    <link>https://raw.githubusercontent.com/doomfist2/eod/master/Womans%20ufc.xml</link>
+  </dir>
+</xml>
+ 
+  <dir>
+    <title>Ufc</title>
+    <link>https://raw.githubusercontent.com/doomfist2/eod/master/ufc.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>Women's Sports Fights</title>
+    <link>https://raw.githubusercontent.com/doomfist2/eod/master/weman%20sports%20fights.xml</link>
+  </dir>
+</xml>
+ 
+  <dir>
+    <title>Women Football</title>
+    <link>https://raw.githubusercontent.com/doomfist2/eod/master/woman%20football.xml</link>
+  </dir>
+</xml>

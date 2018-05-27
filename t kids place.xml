@@ -1,0 +1,133 @@
+<dir>
+<title>DC</title>
+<link>https://raw.githubusercontent.com/lost50/timber/master/DC.xml</link>
+</dir>
+
+<dir>
+<title>animes tv</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
+</dir>
+
+<dir>
+  <title>Animation</title>
+  <tmdb>genre/movies/16</tmdb>
+</dir>
+
+<dir>
+  <title>Dragon Ball</title>
+  <tmdb>list/https://www.themoviedb.org/list/78499</tmdb>
+</dir>
+
+<dir>
+  <title>Kids Movies</title>
+  <tmdb>list/https://www.themoviedb.org/list/65224</tmdb>
+</dir>
+
+<dir>
+<title>Disney Classic Collection</title>
+<tmdb>list/https://www.themoviedb.org/list/338</tmdb>
+</dir>
+
+<dir>
+    <title>kids place</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/kidsmain.xml</link>
+  </dir>
+</xml>
+
+<dir>
+    <title>kids boxset</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/kids_boxset.xml</link>
+  </dir>
+</xml>
+
+<dir>
+<title>Batman: The Dark Knight Returns Collection (2012-2013)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/248534-batman-the-dark-knight-returns-collection</tmdb>
+</dir>
+
+<dir>
+<title>Batman Beyond Collection (1999-2000)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/379475-batman-beyond-collection</tmdb>
+</dir>
+
+<dir>
+<title>Batman (DC Universe Animated) Collection (1993-2003)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/421904-batman-dc-universe-animated-collection</tmdb>
+</dir>
+
+<dir>
+<title>Batman Unlimited Collection (2015-2016)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/356688-batman-unlimited-collection</tmdb>
+</dir>
+
+<dir>
+<title>Superman / Batman (Animated) Collection (2009-2010)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/290933-superman-batman-animated-collection</tmdb>
+</dir>
+
+<dir>
+<title>Son of Batman Collection (2014-2016)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/334996-son-of-batman-collection</tmdb>
+</dir>
+
+<dir>
+<title>Teen Titans Collection</title>
+<tmdb>collection/https://www.themoviedb.org/collection/466894-teen-titans-collection</tmdb>
+</dir>
+
+<dir>
+<title>Justice League (Animated) Collection (2008-2017)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/256287-justice-league-animated-collection</tmdb>
+</dir>
+
+<dir>
+<title>Dragon Ball Z (Movie) Collection</title>
+<tmdb>collection/https://www.themoviedb.org/collection/425164-dragon-ball-z-movie-collection</tmdb>
+</dir>
+
+<dir>
+<title>Dragon Ball Z OVA Collection</title>
+<tmdb>collection/https://www.themoviedb.org/collection/425189-dragon-ball-z-ova-collection</tmdb>
+</dir>
+
+<dir>
+<title>Dragon Ball Collection</title>
+<tmdb>collection/https://www.themoviedb.org/collection/386410</tmdb>
+</dir>
+
+<dir>
+<title>Despicable Me Collection</title>
+<tmdb>collection/86066-despicable-me-collection</tmdb>
+</dir>
+
+
+<dir>
+<title>Cars Collection (2006-2017)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/87118-cars-collection</tmdb>
+</dir>
+
+<dir>
+<title>The Lion King Collection</title>
+<tmdb>collection/https://www.themoviedb.org/collection/94032-the-lion-king-collection</tmdb>
+</dir>
+
+<dir>
+<title>Kung Fu Panda Collection (2008-2016)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/77816-kung-fu-panda-collection</tmdb>
+</dir>
+
+<dir>
+<title>Toy Story Collection (1995-2019)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/10194-toy-story-collection</tmdb>
+</dir>
+
+<dir>
+<title>The Lord of the Rings Animated Collection (1977-1980)</title>
+<tmdb>collection/https://www.themoviedb.org/collection/141290-the-lord-of-the-rings-animated-collection</tmdb>
+</dir>
+
+<dir>
+<title>Stitch</title>
+<tmdb>list/https://www.themoviedb.org/list/50225</tmdb>
+</dir>
+
